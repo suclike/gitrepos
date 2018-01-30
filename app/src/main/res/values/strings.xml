@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Git Repo List</string>
+    <string name="empty_screen_text">Something went wrong, please try again later</string>
+    <string name="wrong_url_provided">Wrong Url provided</string>
+</resources>
